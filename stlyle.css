@@ -1,0 +1,31 @@
+header{
+    background-color: black;
+    color: brown;
+    padding: 2%
+    
+}
+body{
+    background-color: aqua;
+    color: rgb(22, 206, 46);
+}
+p{
+    color: blueviolet;
+}
+h4{
+color: cadetblue;
+ font-size: large;
+}
+h5{
+    color: cadetblue;
+   font-size: large;
+}
+h6{
+    color: cadetblue;
+    font-size: large;
+}
+h2{
+color: rgb(236, 35, 62);
+}
+h3{
+    color: rgb(236, 35, 62);
+}
